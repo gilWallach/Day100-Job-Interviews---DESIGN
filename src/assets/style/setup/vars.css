@@ -1,0 +1,11 @@
+:root {
+  --clr1:var(#181f2b);
+  --clr2:var(#1b2330);
+  --clr3:var(#45b8d1);
+  --clr4:var(#FFFFFF);
+
+  /* screen sizes */
+  --l: 1080px;
+  --m: 780px;
+
+}

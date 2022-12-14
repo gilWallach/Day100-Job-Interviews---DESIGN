@@ -1,0 +1,11 @@
+.app-features{
+    margin-top: 10rem;
+    display: grid;
+    grid-template: repeat(2, 1fr) / repeat(2, 1fr);
+    column-gap: 9.25rem;
+    row-gap: 4.8rem;
+}
+
+.feature-icon{
+    width: fit-content;
+}

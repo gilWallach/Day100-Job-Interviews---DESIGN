@@ -1,0 +1,19 @@
+.app-hero{
+    margin-top: 2rem;
+}
+
+.hero-h-container{
+    max-width: 45.8rem;
+}
+
+.hero-p-container{
+    font-family: nunito-light;
+    max-width: 36.8rem;
+    margin: auto;
+    padding-inline: 40px;
+}
+
+.getting-started-btn{
+    width: 17.5rem;
+    margin-top: 2rem;
+}

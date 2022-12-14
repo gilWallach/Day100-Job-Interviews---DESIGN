@@ -1,0 +1,9 @@
+header {
+    font-family: nunito-light;
+    padding-top: 74px;
+}
+
+.nav-link {
+    margin-inline-start: 60px;
+    display: inline;
+}

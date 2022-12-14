@@ -1,0 +1,17 @@
+.app-stay-productive {
+    margin-top: 10rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.stay-productive-content {
+    margin-inline-end: 1rem;
+}
+
+.stay-productive-content h1{
+    margin-inline-end: 5.5rem;
+}
+
+.stay-productive-content p{
+    margin-inline-end: 2.25rem;
+}
